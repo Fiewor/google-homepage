@@ -17,8 +17,9 @@ nav ul {
 
 nav ul a {
     text-decoration: none;
-    color: grey;
+    color: #000;
     padding: 0 1vw;
+    margin-top: 0rem;
 }
 
 main {
@@ -38,9 +39,13 @@ main img {
     border: solid 0.1px rgba(80, 78, 78, 0.3);
     padding: 0.8% 18%;
     border-radius: 10rem;
-    margin: 2rem auto;
+    margin: 2rem 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+
+.search-bar i {
+    margin: 0;
 }
 
 .search-links {
