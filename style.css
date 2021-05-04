@@ -103,3 +103,16 @@ footer div:last-of-type ul li a{
     text-decoration: none;
     color: inherit;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 0.5rem;
+    }
+
+    .search-links a {
+    padding: 0.4rem 1.2rem;
+    }
+    footer {
+        bottom: 0;
+    }
+}
