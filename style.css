@@ -15,6 +15,17 @@ nav ul {
     padding: 1vw;
 }
 
+nav ul li {
+    margin: 0 0.5rem;
+}
+
+nav ul li:last-of-type img {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50%;
+    margin: -0.5rem 0.3rem;
+}
+
 nav ul a {
     text-decoration: none;
     color: #000;
