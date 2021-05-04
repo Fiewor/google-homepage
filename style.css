@@ -20,8 +20,8 @@ nav ul li {
 }
 
 nav ul li:last-of-type img {
-    width: 5vw;
-    height: 5vw;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     margin: -0.5rem 0.3rem;
 }
@@ -52,11 +52,6 @@ main img {
     border-radius: 10rem;
     margin: 2rem 0;
     display: flex;
-    justify-content: space-evenly;
-}
-
-.search-bar i {
-    margin: 0;
 }
 
 .search-links {
