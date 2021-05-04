@@ -109,9 +109,18 @@ footer div:last-of-type ul li a{
         font-size: 0.5rem;
     }
 
+    .search-bar {
+        margin: 1rem auto;
+    }
+
+    main p:last-of-type {
+        font-size: 0.4rem;
+    }
+
     .search-links a {
     padding: 0.4rem 1.2rem;
     }
+    
     footer {
         bottom: 0;
     }
